@@ -1,2 +1,2 @@
-# Android-Spellcorrector
-An OCR based spell corrector for an E-learning app 
+# Analysis of NASA's Landslide Dataset
+Graphical analysis and prediction of landslides based on rainfall,poplulation, region etc.
